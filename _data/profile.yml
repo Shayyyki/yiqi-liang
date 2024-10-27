@@ -1,10 +1,10 @@
-primary_name: "Yiqi LIANG"
+primary_name: "Hello! I'm Yiqi LIANG"
 secondary_name: ""
 navbar_name: "Yiqi‘s Personal Page"
 
 positions:
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-  name: Yiki
+# - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+  name: ...sometimes I go by my English name, Yiki
 - name:  Cpmputer Graphics. Human-AI Interaction
 
 
