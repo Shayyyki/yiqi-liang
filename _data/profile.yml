@@ -8,10 +8,10 @@ positions:
 - name:  Cpmputer Graphics. Human-AI Interaction
 
 
-Email: yliang339@connect.hkust-gz.edu.cn
+email: yliang339@connect.hkust-gz.edu.cn
 # cv_link: link-to-your-cv-file
-Gscholar: https://scholar.google.com.hk/citations?user=KTctIuUAAAAJ&hl=zh-CN  # This is an example, replace it with your own Google Scholar ID
-Github: https://github.com/Shayyyki
+gscholar: https://scholar.google.com.hk/citations?user=KTctIuUAAAAJ&hl=zh-CN  # This is an example, replace it with your own Google Scholar ID
+github: https://github.com/Shayyyki
 ORCID: https://orcid.org/my-orcid?orcid=0009-0005-2596-5428  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
@@ -23,15 +23,17 @@ short_bio_text_justify: false
 short_bio: >-
   <p>
   Hi, I am currently a second-year M. Phil. student at The Hong Kong University of Science and Technology (Guangzhou) under supervision of
-  <a href="https://www.mingmingfan.com/" target="_blank">Prof. Mingming FAN and <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">Prof. Yuyu LUO. 
-  I am a member of <a href="https://www.mingmingfan.com/lab/" target="_blank">Accessible & Pervasive User EXperience (APEX) Lab. 
-  Before that, I did my bachelor’s degree at Northeastern University in Computer Science and Technology.
+  <a href="https://www.mingmingfan.com/" target="_blank">Prof. Mingming FAN</a> and <a href="https://luoyuyu.vip/" target="_blank">Prof. Yuyu LUO</a>. 
+  I am a member of <a href="https://www.mingmingfan.com/lab/" target="_blank">Accessible & Pervasive User EXperience (APEX) Group</a>. 
+  I am interested in Computer Vision and Computer Graphics. I like to design and use different tools of AI and generative models to tackle different vision tasks. 
+  More recently, I am learning and doing research on Human-Computer Interaction(HCI). 
+  I am interested in the intersection of Computer Graphics and Human-Computer Interaction, exploring themes around Computer Vision, Human-AI Collaboration with Generative AI and Assistive Technology.
+
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+  I received my B.Eng. in Computer Science and Technology from Northeastern University of Academy of Computer and Communication Engineering.
   </p>
+ 
 
 portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: >-
